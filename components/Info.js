@@ -9,7 +9,7 @@ export default function Info() {
 
     return (
         <div>
-            <img src="./images/me-img.JPG"/>
+            <img src="images/me-img.JPG"/>
             <h3>Jakub Cerovsky</h3>
             <p className="developer-text">Frontend Developer</p>
             <div className="btns">
